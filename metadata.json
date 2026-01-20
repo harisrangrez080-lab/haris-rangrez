@@ -1,0 +1,8 @@
+{
+  "name": "MH AI Agency - Hubli Dharwad AI Automation",
+  "description": "A high-performance landing page for an AI automation agency targeting businesses in Hubli-Dharwad, featuring an integrated Gemini-powered chatbot.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
